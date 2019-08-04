@@ -1,0 +1,9 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\RuangDatar\bin\Debug\RuangDatar.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\RuangDatar\bin\Debug\RuangDatar.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\RuangDatar\obj\x86\Debug\RuangDatar.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\RuangDatar\obj\x86\Debug\RuangDatar.pdb
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\RuangDatar\RuangDatar\obj\x86\Debug\RuangDatar.exe
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\RuangDatar\RuangDatar\obj\x86\Debug\RuangDatar.pdb
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\RuangDatar\RuangDatar\bin\Debug\RuangDatar.exe
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\RuangDatar\RuangDatar\bin\Debug\RuangDatar.pdb
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\RuangDatar\RuangDatar\obj\x86\Debug\RuangDatar.csprojResolveAssemblyReference.cache

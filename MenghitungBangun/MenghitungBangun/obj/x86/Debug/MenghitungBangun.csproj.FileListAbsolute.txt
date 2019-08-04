@@ -1,0 +1,8 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\MenghitungBangun\bin\Debug\MenghitungBangun.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\MenghitungBangun\bin\Debug\MenghitungBangun.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\MenghitungBangun\obj\x86\Debug\MenghitungBangun.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\MenghitungBangun\obj\x86\Debug\MenghitungBangun.pdb
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\MenghitungBangun\MenghitungBangun\obj\x86\Debug\MenghitungBangun.exe
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\MenghitungBangun\MenghitungBangun\obj\x86\Debug\MenghitungBangun.pdb
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\MenghitungBangun\MenghitungBangun\bin\Debug\MenghitungBangun.exe
+D:\SMK TELKOM SP PWT\XI RPL I\KK3\Coding\MenghitungBangun\MenghitungBangun\bin\Debug\MenghitungBangun.pdb
